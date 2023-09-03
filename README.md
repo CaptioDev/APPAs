@@ -50,3 +50,13 @@ This simulator was created by [PQAR].
 
 ## License
 This simulator is open-source and released under the [PQAR Open-Source] license. See the LICENSE file for details.
+
+## Resources
+PQAR uses Open Data CERN and PQAR experimentation data for the APPAs simulation.
+[CERN Open Data](https://opendata.cern.ch/)
+[PQAR](https://pqar.net)
+
+[PQAR]
+[Year: 2023]
+[pqar.net](https://pqar.net)
+
